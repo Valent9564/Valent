@@ -1,0 +1,162 @@
+{
+    "1": {
+        "lines": [
+            "Este lugar..."
+        ]
+    },
+    "30": {
+        "lines": [
+            "¡Sí, enfádate!@",
+            "¡Porque si no me castigas, Gensokyo dejará de existir!"
+        ]
+    },
+    "29": {
+        "lines": [
+            "Estoy empezando a enfadarme."
+        ]
+    },
+    "28": {
+        "lines": [
+            "¡Después de esto habrá terremotos aún mayores!@",
+            "¿No ves nada malo en eso?"
+        ]
+    },
+    "27": {
+        "lines": [
+            "¡Por supuesto que lo hice!",
+            "De hecho..."
+        ]
+    },
+    "25": {
+        "lines": [
+            "On the ground, humans and youkai battle... ",
+            "I've been longing to fight a battle like that!"
+        ]
+    },
+    "26": {
+        "lines": [
+            "¿A-Acaso fuiste tú quien cortó fantasmas, cortó los temperamentos de los humanos,",
+            "y destruyó el santuario solo por eso?"
+        ]
+    },
+    "24": {
+        "lines": [
+            "¿¿¿???"
+        ]
+    },
+    "23": {
+        "lines": [
+            "Well, since you did come all the way here,@",
+            "I don't see what else you would be here for."
+        ]
+    },
+    "22": {
+        "lines": [
+            "I don't think I understand. ",
+            "You look like you want me defeat you, do you?"
+        ]
+    },
+    "21": {
+        "lines": [
+            "You're not proving to be much so I don't feel like it."
+        ]
+    },
+    "19": {
+        "lines": [
+            "No eres muy buena conversando."
+        ]
+    },
+    "20": {
+        "lines": [
+            "Oh, ¿en serio?",
+            "Has venido aquí a <color FF0000>castigarme</color>, ¿cierto?"
+        ]
+    },
+    "16": {
+        "lines": [
+            "Esta espada, {{ruby|la Hisou no Tsurugi|Espada del Pensamiento Escarlata}}, deja al descubierto",
+            "los fantasmas y los temperamentos."
+        ]
+    },
+    "13": {
+        "lines": [
+            "Ehhh, ¿eres tú quien ha estado cortando a todos los fantasmas?"
+        ]
+    },
+    "18": {
+        "lines": [
+            "Y sacudí el mundo con ellas."
+        ]
+    },
+    "17": {
+        "lines": [
+            "Así es como creé las nieblas escarlata,"
+        ]
+    },
+    "15": {
+        "lines": [
+            "Mi nombre es Tenshi Hinanawi."
+        ]
+    },
+    "10": {
+        "lines": [
+            "¿Todo se desarrolló demasiado rápido como para que pudieras reaccionar?"
+        ]
+    },
+    "9": {
+        "lines": [
+            "¿Eh? ¿¡EHHH!?"
+        ]
+    },
+    "6": {
+        "lines": [
+            "Perdón por hacerte esperar."
+        ]
+    },
+    "4": {
+        "lines": [
+            "El aire de la no-percepción, esa es la esencia de los seres vivos."
+        ]
+    },
+    "12": {
+        "lines": [
+            "\"¿Eres tú quien está cortando a todos los fantasmas?\""
+        ]
+    },
+    "2": {
+        "lines": [
+            "¿Estos son los cielos?"
+        ]
+    },
+    "7": {
+        "lines": [
+            "*mirada fija*"
+        ]
+    },
+    "8": {
+        "lines": [
+            "¿Qué ocurre?",
+            "¿Buscas a la culpable cuando la tienes justo delante?"
+        ]
+    },
+    "11": {
+        "lines": [
+            "..."
+        ]
+    },
+    "14": {
+        "lines": [
+            "Sí, soy yo.@"
+        ]
+    },
+    "3": {
+        "lines": [
+            "La niebla escarlata, ese es el aire de la no-percepción."
+        ]
+    },
+    "5": {
+        "lines": [
+            "El clima es la esencia del Cielo de la No-percepción."
+        ]
+    }
+}
