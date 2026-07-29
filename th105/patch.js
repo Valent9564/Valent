@@ -7,7 +7,7 @@
     "dependencies": [
         "nmlgc/base_tsa",
         "nmlgc/base_tasofro",
-        "nmlgc/western_name_order"
+        "nmlgc/western_name_order",
         "nmlgc/script_latin"
     ]
 }
