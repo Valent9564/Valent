@@ -43,8 +43,8 @@
     },
     "6": {
         "lines": [
-            "Reimu  \"¿El culpable? ¿Qué, te refieres a un pez gato o algo así?\"@",
-            "Alice  \"S-sí, quizá sea un pez gato... o una celestial.\"@",
+            "Reimu  \"¿El culpable? ¿Qué, te refieres a un bagre o algo así?\"@",
+            "Alice  \"S-sí, quizá sea un bagre... o una celestial.\"@",
             "Reimu  \"¿Una celestial? Sea quien sea, ¡me encantaría cantarle unas cuantas verdades!\""
         ]
     },
@@ -56,7 +56,7 @@
     "4": {
         "lines": [
             "Alice  \"Bueno, creo que hay algo que necesitas hacer antes de",
-            "        preocuparte realmente por reconstruir el santuario... ...\"@",
+            "        preocuparte realmente por reconstruir el santuario...\"@",
             "Reimu  \"¿Qué cosa?\""
         ]
     },
