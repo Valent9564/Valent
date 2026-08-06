@@ -18,7 +18,7 @@
     },
     "4": {
         "lines": [
-            "Soy una mensajera del Palacio del Dragón, enviada únicamente para transmitir ese mensaje."
+            "Soy una mensajera del Palacio del Dragón, enviada para transmitir ese mensaje."
         ]
     },
     "5": {
@@ -56,7 +56,7 @@
     },
     "11": {
         "lines": [
-            "El hecho de que sientas ansiedad es una señal de que estoy cumpliendo correctamente con mi deber."
+            "El hecho de que sientas ansiedad significa que estoy cumpliendo correctamente con mi deber."
         ]
     }
 }

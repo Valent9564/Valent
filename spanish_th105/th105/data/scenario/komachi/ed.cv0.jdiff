@@ -16,7 +16,7 @@
     "3": {
         "lines": [
             "Fantasma   (... la primera torre es para mi padre)@",
-            "Komachi \"Oh, hombre, ¿otro fantasma infantil?@",
+            "Komachi \"Oh, hombre, ¿otro fantasma de un niño?@",
             "         Los niños no tienen experiencia, así que sus conversaciones son aburridas.\""
         ]
     },
@@ -38,13 +38,13 @@
         "lines": [
             "Komachi \"La voluntad de cumplir tus esperanzas no es más que una forma de deseo.@",
             "         El deseo engendra vacilación, y eso crea apego.\"@",
-            "Fantasma    (... ...)"
+            "Fantasma    (...)"
         ]
     },
     "7": {
         "lines": [
-            "Komachi \"Debes desechar esa voluntad mal orientada, solo aceptar",
-            "         todo y dejarte llevar flotando a través del río.\"@",
+            "Komachi \"Solo cuando dejes esa voluntad de lado y te dejes llevar",
+            "         serás capaz de cruzar el río.\"@",
             "Fantasma   (... la primera torre es para mi padre)"
         ]
     },
@@ -57,7 +57,7 @@
     },
     "9": {
         "lines": [
-            "Komachi \"Si alguna vez piensas que quieres olvidar este mundo...@",
+            "Komachi \"Si alguna vez decides que quieres olvidar este mundo...@",
             "         Ven a verme cuando quieras.@",
             "         Haré un viaje especial para llevarte al otro lado.\""
         ]
